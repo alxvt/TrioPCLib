@@ -1,0 +1,6 @@
+; TrioPC_DLL.def : Declares the module parameters for the DLL.
+
+LIBRARY      "TrioPC"
+
+EXPORTS
+    ; Explicit exports can go here
